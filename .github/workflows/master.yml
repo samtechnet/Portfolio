@@ -17,4 +17,4 @@ jobs:
         server: ftp.galleryone.com.ng
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: /home/galleryone/samuelomolaja.com.ng/samportfolio/
+        server-dir: /samuelomolaja.com.ng/
